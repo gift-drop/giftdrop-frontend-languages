@@ -1,0 +1,193 @@
+{
+  "welcome": "مرحباً بك في موقعنا",
+  "assetsToGive": "الأصول للإهداء",
+  "sendAssets": "إرسال الأصول",
+  "recipientAddress": "عنوان المستلم",
+  "enterRecipientAddress": "أدخل عنوان المستلم",
+  "back": "رجوع",
+  "send": "إرسال",
+  "bugReport": "للإبلاغ عن الأخطاء وطلبات الميزات، يرجى ملء هذا النموذج.",
+  "headerIntro": "يمكنك اختيار أصول متعددة في وقت واحد وإنشاء رابط مطالبة واحد لمستلمين متعددين.",
+  "Home": "الرئيسية",
+  "Links": "الروابط",
+  "Search assets": "البحث عن الأصول",
+  "Verified Only": "الموثقة فقط",
+  "Options": "الخيارات",
+  "Coin": "عملة",
+  "NFT": "NFT",
+  "Search": "بحث",
+  "Balance": "الرصيد",
+  "USD Value": "القيمة بالدولار",
+  "Actions": "الإجراءات",
+  "Add": "إضافة",
+  "Adjust Gas Fee Manually": "تعديل رسوم الغاز يدوياً",
+  "Confirm": "تأكيد",
+  "Cancel": "إلغاء",
+  "Max": "الحد الأقصى",
+  "Enter amount": "أدخل المبلغ",
+  "Login with Google": "تسجيل الدخول باستخدام Google",
+  "Connect Wallet": "ربط المحفظة",
+  "Enoki": "Enoki",
+  "Picked Assets": "الأصول المختارة",
+  "Coins": "العملات",
+  "assets chosen": "الأصول المختارة",
+  "Arrow": "سهم",
+  "NFTs": "NFTs",
+  "NFTs chosen": "NFTs المختارة",
+  "Send the assets directly": "إرسال الأصول مباشرة",
+  "You cannot send assets with newly created NFTs": "لا يمكنك إرسال الأصول مع NFTs المنشأة حديثاً",
+  "Reset": "إعادة تعيين",
+  "Next": "التالي",
+  "Gift Settings": "إعدادات الهدية",
+  "Expected gift URL is": "رابط الهدية المتوقع هو",
+  "Copied to clipboard": "تم النسخ إلى الحافظة",
+  "Google reCAPTCHA": "Google reCAPTCHA",
+  "Create": "إنشاء",
+  "Back": "رجوع",
+  "Gift URL": "رابط الهدية",
+  "Number of Recipients": "عدد المستلمين",
+  "Each Recipient Will Receive": "سيستلم كل مستلم",
+  "Passcode Protection": "حماية بكلمة المرور",
+  "Enter Code Hint (Optional)": "أدخل تلميح الرمز (اختياري)",
+  "Enter Code": "أدخل الرمز",
+  "All codes will be considered correct": "ستعتبر جميع الرموز صحيحة",
+  "Add More Codes": "إضافة المزيد من الرموز",
+  "Passcode": "كلمة المرور",
+  "SuiNS Filter": "فلتر SuiNS",
+  "Only wallets with SuiNS names ending with the following will be eligible": "فقط المحافظ التي تنتهي أسماء SuiNS الخاصة بها بما يلي ستكون مؤهلة",
+  "Enter the ending": "أدخل النهاية",
+  "Any of these endings will be accepted": "سيتم قبول أي من هذه النهايات",
+  "Add More": "إضافة المزيد",
+  "How many dots in the SuiNS name is allowed?": "كم عدد النقاط المسموح بها في اسم SuiNS؟",
+  "If you enter 2, wallets with names like subdomain.{{ending}}.sui will be accepted. If you enter 3, wallets with names like subdomain.subdomain.{{ending}}.sui will also be accepted.": "إذا أدخلت 2، سيتم قبول المحافظ بأسماء مثل subdomain.{{ending}}.sui. إذا أدخلت 3، سيتم قبول المحافظ بأسماء مثل subdomain.subdomain.{{ending}}.sui أيضاً.",
+  "Message shown to users": "الرسالة المعروضة للمستخدمين",
+  "SuiNS Instructions Override": "تجاوز تعليمات SuiNS",
+  "Preview (markdown):": "معاينة (markdown):",
+  "Error message shown to users": "رسالة الخطأ المعروضة للمستخدمين",
+  "SuiNS Error Message Override": "تجاوز رسالة خطأ SuiNS",
+  "NFT Filter": "فلتر NFT",
+  "Only users with NFTs of the following types will be eligible.": "فقط المستخدمون الذين لديهم NFTs من الأنواع التالية سيكونون مؤهلين.",
+  "One NFT per claim. A user can claim multiple times with multiple NFTs.": "NFT واحد لكل مطالبة. يمكن للمستخدم المطالبة عدة مرات باستخدام NFTs متعددة.",
+  "Support and Sui Object NFTs now. Kiosk NFTs coming soon.": "دعم وSui Object NFTs الآن. Kiosk NFTs قادمة قريباً.",
+  "Enter NFT type": "أدخل نوع NFT",
+  "All of these NFT types above will be eligible": "جميع أنواع NFT أعلاه ستكون مؤهلة",
+  "Add More Types": "إضافة المزيد من الأنواع",
+  "NFT Type Instructions": "تعليمات نوع NFT",
+  "NFT Marketplace URL": "رابط سوق NFT",
+  "Enter NFT Marketplace URL": "أدخل رابط سوق NFT",
+  "ReceiverDisplay Mode": "وضع عرض المستلم",
+  "List with NFT and Receiver (default)": "قائمة مع NFT والمستلم (افتراضي)",
+  "Gallery": "معرض",
+  "List with Address without NFT": "قائمة بالعنوان بدون NFT",
+  "NFT Name Regex Filter": "فلتر Regex لاسم NFT",
+  "Enter regex for NFT name": "أدخل regex لاسم NFT",
+  "Test NFT Name Regex Filter": "اختبار فلتر Regex لاسم NFT",
+  "Enter NFT name to test": "أدخل اسم NFT للاختبار",
+  "Test Regex Filter": "اختبار فلتر Regex",
+  "Eligible!": "مؤهل!",
+  "Not eligible.": "غير مؤهل.",
+  "NFT Fields Filters": "فلاتر حقول NFT",
+  "Display Data": "عرض البيانات",
+  "Content Fields": "حقول المحتوى",
+  "Enter field name": "أدخل اسم الحقل",
+  "Regex Filter": "فلتر Regex",
+  "Add Field Filter": "إضافة فلتر حقل",
+  "Test Object ID For NFT Fields Filters": "اختبار معرف الكائن لفلاتر حقول NFT",
+  "Enter object ID to test": "أدخل معرف الكائن للاختبار",
+  "Test Object Eligibility": "اختبار أهلية الكائن",
+  "[explorer]": "[المستكشف]",
+  "Custom Gift Message": "رسالة هدية مخصصة",
+  "The message is in markdown format. Use <br/> to change line. You may use": "الرسالة بتنسيق markdown. استخدم <br/> لتغيير السطر. يمكنك استخدام",
+  "to host your images.": "لاستضافة صورك.",
+  "Claiming Message:": "رسالة المطالبة:",
+  "Enter claiming message in markdown": "أدخل رسالة المطالبة بتنسيق markdown",
+  "Finished Message:": "الرسالة النهائية:",
+  "Enter finished message in markdown": "أدخل الرسالة النهائية بتنسيق markdown",
+  "Custom Interaction": "تفاعل مخصص",
+  "Type": "النوع",
+  "Rolling": "التمرير",
+  "Dragging": "السحب",
+  "Load Example": "تحميل مثال",
+  "Title": "العنوان",
+  "Title (Optional)": "العنوان (اختياري)",
+  "Subtitle": "العنوان الفرعي",
+  "Subtitle (Optional)": "العنوان الفرعي (اختياري)",
+  "Image URL": "رابط الصورة",
+  "Puzzle X": "لغز X",
+  "Puzzle Y": "لغز Y",
+  "Puzzle Radius": "نصف قطر اللغز",
+  "Tolerance Percentage": "نسبة التسامح",
+  "Dragging Icon": "أيقونة السحب",
+  "Show Border": "إظهار الحدود",
+  "Background Color": "لون الخلفية",
+  "Enable Confetti": "تمكين الكونفيتي",
+  "Preview": "معاينة",
+  "Verification Success": "نجاح التحقق",
+  "Save": "حفظ",
+  "Type is required": "النوع مطلوب",
+  "Image URL is required": "رابط الصورة مطلوب",
+  "Puzzle X must be a valid number": "يجب أن يكون لغز X رقماً صالحاً",
+  "Puzzle Y must be a valid number": "يجب أن يكون لغز Y رقماً صالحاً",
+  "Puzzle Radius must be a positive number": "يجب أن يكون نصف قطر اللغز رقماً موجباً",
+  "Tolerance is required": "التسامح مطلوب",
+  "Sui Wallet App Only": "تطبيق محفظة Sui فقط",
+  "Redirect After Claim": "إعادة التوجيه بعد المطالبة",
+  "Enter redirect URL": "أدخل رابط إعادة التوجيه",
+  "Custom Share Message": "رسالة مشاركة مخصصة",
+  "Enter your custom message": "أدخل رسالتك المخصصة",
+  "Preview:": "معاينة:",
+  "Show Input Reference": "إظهار مرجع الإدخال",
+  "Placeholder": "العنصر النائب",
+  "Description": "الوصف",
+  "Replaced with the creator's address": "يستبدل بعنوان المنشئ",
+  "Replaced with the total number of recipients": "يستبدل بالعدد الإجمالي للمستلمين",
+  "Replaced with the order number of the recipient": "يستبدل برقم ترتيب المستلم",
+  "Replaced with how many recipients are left": "يستبدل بعدد المستلمين المتبقين",
+  "Replaced with the gift URL": "يستبدل برابط الهدية",
+  "Replaced with the gift amount and symbol": "يستبدل بمبلغ الهدية ورمزها",
+  "X Follow Before Claim": "متابعة 𝕏 قبل المطالبة",
+  "Enter X (Twitter) ID": "أدخل معرف 𝕏 (Twitter)",
+  "X Like Before Claim": "إعجاب 𝕏 قبل المطالبة",
+  "X Repost Before Claim": "إعادة نشر 𝕏 قبل المطالبة",
+  "You can only add 5 or less": "يمكنك إضافة 5 أو أقل فقط",
+  "Be faster next time!": "كن أسرع في المرة القادمة!",
+  "You can claim the following gift:": "يمكنك المطالبة بالهدية التالية:",
+  "You have received the gift!": "لقد استلمت الهدية!",
+  "Share on X (Twitter)": "مشاركة على 𝕏 (Twitter)",
+  "Copy Link": "نسخ الرابط",
+  "Link Copied!": "تم نسخ الرابط!",
+  "Reclaim All as Creator": "استرداد الكل كمنشئ",
+  "Claim Successful!": "تمت المطالبة بنجاح!",
+  "You have claimed the gift!": "لقد طالبت بالهدية!",
+  "You may share this gift on Twitter and collect referral points!": "يمكنك مشاركة هذه الهدية على Twitter وجمع نقاط الإحالة!",
+  "Each receiver was given:": "تم منح كل مستلم:",
+  "claimed,": "تمت المطالبة،",
+  "left": "متبقي",
+  "Claimed By": "تمت المطالبة بواسطة",
+  "You": "أنت",
+  "by": "بواسطة",
+  "Load More": "تحميل المزيد",
+  "users had viewed this page": "مستخدم شاهدوا هذه الصفحة",
+  "and among them,": "ومن بينهم،",
+  "with their wallet connected": "مع اتصال محفظتهم",
+  "Please complete the reCAPTCHA": "يرجى إكمال reCAPTCHA",
+  "Please complete the reCAPTCHA V2": "يرجى إكمال reCAPTCHA V2",
+  "CAPTCHA verification failed": "فشل التحقق من CAPTCHA",
+  "X (Twitter) verification failed. Please re-login.": "فشل التحقق من 𝕏 (Twitter). يرجى إعادة تسجيل الدخول.",
+  "Claim in Sui Wallet Mobile App": "المطالبة في تطبيق محفظة Sui للجوال",
+  "You need to login by X (Twitter) to continue.": "تحتاج إلى تسجيل الدخول عبر 𝕏 (Twitter) للمتابعة.",
+  "Login to X (Twitter)": "تسجيل الدخول إلى 𝕏 (Twitter)",
+  "Click here to copy link and paste it to browser if above link not working.": "انقر هنا لنسخ الرابط ولصقه في المتصفح إذا كان الرابط أعلاه لا يعمل.",
+  "Enter the code to claim": "أدخل الرمز للمطالبة",
+  "Claim to Wallet": "المطالبة إلى المحفظة",
+  "Select NFT to Claim": "اختر NFT للمطالبة",
+  "Claim with NFT": "المطالبة باستخدام NFT",
+  "Change NFT": "تغيير NFT",
+  "Review X Actions": "مراجعة إجراءات 𝕏",
+  "Switch to another account": "التبديل إلى حساب آخر",
+  "NFT selected": "تم اختيار NFT",
+  "Gift From": "هدية من",
+  "Gift From after": "",
+  "Message shown when user doesn't have any NFTs": "الرسالة المعروضة عندما لا يمتلك المستخدم أي NFTs",
+  "Enter X (Twitter) Post URL": "أدخل رابط منشور 𝕏 (Twitter)"
+}
